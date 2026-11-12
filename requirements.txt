@@ -1,0 +1,4 @@
+# Vision / tracking stack (tested on Python 3.14, Windows 11)
+opencv-python==4.13.0.92
+numpy==2.5.0
+pyserial==3.5

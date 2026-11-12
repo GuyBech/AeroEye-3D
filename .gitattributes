@@ -1,0 +1,10 @@
+# Windows launchers need CRLF line endings
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary media
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary
+*.pkl binary

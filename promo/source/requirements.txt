@@ -1,0 +1,7 @@
+# Extra packages for the promo-video pipeline only (not needed to run the tracker)
+opencv-python
+numpy
+scipy
+Pillow
+python-bidi
+imageio-ffmpeg   # render.py looks for the ffmpeg binary under promo/tools/iff/

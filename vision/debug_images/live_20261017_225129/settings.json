@@ -1,0 +1,10 @@
+{
+ "LEAD_S": 0.15,
+ "LEAD_TILT_S": 0.3,
+ "ALPHA": 0.7,
+ "argv": [
+  "COM4",
+  "1",
+  "--record"
+ ]
+}

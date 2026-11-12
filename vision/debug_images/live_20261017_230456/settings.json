@@ -1,0 +1,15 @@
+{
+ "LEAD_S": 0.15,
+ "LEAD_TILT_S": 0.3,
+ "LEAD_FAST_S": 0.2,
+ "FAST_RAMP": [
+  15.0,
+  35.0
+ ],
+ "ALPHA": 0.7,
+ "argv": [
+  "COM4",
+  "1",
+  "--record"
+ ]
+}
