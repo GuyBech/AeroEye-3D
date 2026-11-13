@@ -4,6 +4,8 @@
 
 **Real-time stereo-vision laser tracking turret**
 
+Hardware Lab project · Tel Aviv University · **Final grade: 100/100**
+
 A stereo camera finds a swinging ball, works out how far away it is from the shift between its two eyes,<br/>
 and a pan-tilt turret keeps a laser on it, in real time, built from about ₪200 of parts.
 
@@ -240,6 +242,6 @@ On Windows you can also double-click the launchers in [`scripts/`](scripts): `ru
 <div align="center">
 
 **Guy Becher · Raz Yechieli**<br/>
-Hardware Lab project · School of Electrical and Computer Engineering · Tel Aviv University · 2026
+Hardware Lab project · School of Electrical and Computer Engineering · Tel Aviv University · 2026 · Final grade 100/100
 
 </div>
